@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title> استفاده از فرم در صفحات وب</title>
+        <style type="text/css">
+            body{
+                font-family:Tahoma, Geneva, sans-serif;
+                font-size:12px;
+                direction:rtl;
+                line-height:20px;    
+            }
+            label{
+                width:100px;
+                height:25px;
+                display:inline-block;
+                vertical-align:top;
+            }
+        </style>
+    </head>
+    <body>
+        <form action="form-get.php" method="post">
+            <label for="name">نام:</label>
+            <input type="text" name="name" id="name" maxlength="255" />
+            <br />
+            <label for="pass">رمز:</label>
+            <input type="password" name="pass" id="pass" maxlength="255" />
+            <br />
+
+            <label for="pass">جنسیت :</label>
+            <input type="radio" checked />مرد
+            <input type="radio"  />زن
+            <br />
+            <label for="pass">علاقه مندی :</label>
+            <input type="checkbox" name="vehicle" checked>مطالعه
+                <input type="checkbox" name="vehicle" >ورزش
+                    <input type="checkbox" name="vehicle" >تلویزیون
+                        <br />
+                        <label for="pass">بارگزاری عکس :</label>
+                        <input type="file" />
+                        <br />
+
+                        <label for="pass">کشور:</label>
+                        <select name="country" id="country">
+                            <option value="Iran" >ایران</option>
+                            <option value="Japan">ژاپن</option>
+                            <option value="Afghanistan" selected>افغانستان</option>
+                            <option value="Germany">آلمان</option>
+                            <option value="Australia">استرالیا</option>
+                        </select>
+                        <br />
+                        <label for="text">یادداشت:</label>
+                        <textarea name="text" id="text" cols="30" rows="6">
+                        </textarea>
+                        <br />
+                        <input type='reset' value='ریست'/>
+                        <br />
+                        <br />
+                        <input type="submit" value="ارسال" />
+                        </form>
+                        <hr />
+                        اطلاعات فرم بالا پس از ارسال (متد post)، به فایلی با نام فرضی form-get.php فرستاده شده و پردازش می شود.
+                        </body>
+                        </html>
