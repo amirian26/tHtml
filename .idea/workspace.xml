@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72dffc08-a36e-4e84-9b96-6545ce20b151" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session1&amp;2/a - 05 - intro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session1&amp;2/a - 25 - sub,sup,ins,del.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Html.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 05 - intro html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 06 - div.html" beforeDir="false" afterPath="$PROJECT_DIR$/session1&amp;2/a - 06 - div.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 07 - span.html" beforeDir="false" afterPath="$PROJECT_DIR$/session1&amp;2/a - 07 - span.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 10 - h.html" beforeDir="false" afterPath="$PROJECT_DIR$/session1&amp;2/a - 10 - h.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 100 - HTML5  - form input.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 25 - sub , sup , ins , del.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 30 - p , b , br , pre , strong , i , em , hr.html" beforeDir="false" afterPath="$PROJECT_DIR$/session1&amp;2/a - 30 - p,b,br,pre,strong,i,em,hr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 55 - table.html" beforeDir="false" afterPath="$PROJECT_DIR$/session1&amp;2/a - 55 - table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 60 - form.html" beforeDir="false" afterPath="$PROJECT_DIR$/session1&amp;2/a - 60 - form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 65 - list.html" beforeDir="false" afterPath="$PROJECT_DIR$/session1&amp;2/a - 65 - list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 75 - metatag.html" beforeDir="false" afterPath="$PROJECT_DIR$/session1&amp;2/a - 75 - metatag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1&amp;2/a - 80 - HTML5  - intro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,11 +60,7 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -162,24 +145,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592381928305</updated>
-      <workItem from="1592381931412" duration="2527000" />
+      <workItem from="1592381931412" duration="3094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2527000" />
+    <option name="totallyTimeSpent" value="3094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6993464" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -347,11 +329,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
